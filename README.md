@@ -1,2 +1,2 @@
 # SideHustleProject
-This is for Side Hustle Capsone project fro Group 22
+This is for Side Hustle Capsone project for Group 22
